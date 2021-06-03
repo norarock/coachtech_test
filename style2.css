@@ -1,0 +1,53 @@
+.catchcopy {
+  background-image: url(../img/firstview.jpg);
+  background-position: top;
+  height: 400px;
+}
+
+h1 {
+  text-align: center;
+  padding: 200px;
+  font-size: 40px;
+  color: #fff;
+}
+
+.about {
+  margin-top: 70px;
+}
+
+.about__title {
+  font-size: 30px;
+  text-align: center;
+}
+
+.about__text {
+  margin-top: 50px;
+  text-align: center;
+  line-height: 28px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.blog {
+  margin-top: 70px;
+}
+
+.blog__title {
+  font-size: 30px;
+  text-align: center;
+}
+
+.blog__img {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+.image {
+  width: 300px;
+  padding: 30px;
+  margin: auto 0;
+}
